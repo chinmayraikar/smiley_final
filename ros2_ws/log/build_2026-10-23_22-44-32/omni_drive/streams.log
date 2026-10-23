@@ -1,0 +1,37 @@
+[0.720s] Invoking command in '/home/chinmay/smiley1/project/ros2_ws/src/omni_drive': AMENT_PREFIX_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces:/home/chinmay/smiley1/project/ros2_ws/install/blitz_drive:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces:/home/chinmay/smiley1/project/ros2_ws/install/blitz_drive:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/omni_drive build --build-base /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build install --record /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log --install-scripts $base/lib/omni_drive --single-version-externally-managed install_data
+[0.985s] running egg_info
+[1.012s] creating ../../build/omni_drive/omni_drive.egg-info
+[1.012s] writing ../../build/omni_drive/omni_drive.egg-info/PKG-INFO
+[1.013s] writing dependency_links to ../../build/omni_drive/omni_drive.egg-info/dependency_links.txt
+[1.013s] writing entry points to ../../build/omni_drive/omni_drive.egg-info/entry_points.txt
+[1.013s] writing requirements to ../../build/omni_drive/omni_drive.egg-info/requires.txt
+[1.013s] writing top-level names to ../../build/omni_drive/omni_drive.egg-info/top_level.txt
+[1.013s] writing manifest file '../../build/omni_drive/omni_drive.egg-info/SOURCES.txt'
+[1.057s] reading manifest file '../../build/omni_drive/omni_drive.egg-info/SOURCES.txt'
+[1.058s] writing manifest file '../../build/omni_drive/omni_drive.egg-info/SOURCES.txt'
+[1.058s] running build
+[1.058s] running build_py
+[1.058s] creating /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive
+[1.058s] copying omni_drive/__init__.py -> /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive
+[1.058s] copying omni_drive/joy_to_velocity.py -> /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive
+[1.058s] running install
+[1.062s] running install_lib
+[1.083s] creating /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive
+[1.083s] copying /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive/__init__.py -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive
+[1.083s] copying /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive/joy_to_velocity.py -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive
+[1.083s] byte-compiling /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive/__init__.py to __init__.cpython-312.pyc
+[1.083s] byte-compiling /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive/joy_to_velocity.py to joy_to_velocity.cpython-312.pyc
+[1.084s] running install_data
+[1.084s] creating /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/ament_index/resource_index/packages
+[1.084s] copying resource/omni_drive -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/ament_index/resource_index/packages
+[1.084s] copying package.xml -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/omni_drive
+[1.084s] creating /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/omni_drive/launch
+[1.085s] copying launch/omni_drive.launch.py -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/omni_drive/launch
+[1.085s] creating /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/omni_drive/config
+[1.085s] copying config/omni_drive.yaml -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/share/omni_drive/config
+[1.085s] running install_egg_info
+[1.105s] Copying ../../build/omni_drive/omni_drive.egg-info to /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive-0.1.0-py3.12.egg-info
+[1.106s] running install_scripts
+[1.148s] Installing joy_to_velocity script to /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/omni_drive
+[1.149s] writing list of installed files to '/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log'
+[1.171s] Invoked command in '/home/chinmay/smiley1/project/ros2_ws/src/omni_drive' returned '0': AMENT_PREFIX_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces:/home/chinmay/smiley1/project/ros2_ws/install/blitz_drive:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces:/home/chinmay/smiley1/project/ros2_ws/install/blitz_drive:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/omni_drive build --build-base /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build install --record /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log --install-scripts $base/lib/omni_drive --single-version-externally-managed install_data

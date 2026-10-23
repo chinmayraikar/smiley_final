@@ -1,0 +1,2 @@
+[console_scripts]
+joy_to_velocity = omni_drive.joy_to_velocity:main

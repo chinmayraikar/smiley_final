@@ -1,0 +1,24 @@
+[0.606s] Invoking command in '/home/chinmay/smiley1/project/ros2_ws/src/omni_drive': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/opt/ros/jazzy/opt/gz_sim_vendor/lib/python:/opt/ros/jazzy/opt/sdformat_vendor/lib/python:/opt/ros/jazzy/opt/gz_transport_vendor/lib/python:/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python:/opt/ros/jazzy/opt/gz_math_vendor/lib/python:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/omni_drive build --build-base /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build install --record /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log --install-scripts $base/lib/omni_drive --single-version-externally-managed install_data
+[0.857s] running egg_info
+[0.875s] writing ../../build/omni_drive/omni_drive.egg-info/PKG-INFO
+[0.876s] writing dependency_links to ../../build/omni_drive/omni_drive.egg-info/dependency_links.txt
+[0.876s] writing entry points to ../../build/omni_drive/omni_drive.egg-info/entry_points.txt
+[0.876s] writing requirements to ../../build/omni_drive/omni_drive.egg-info/requires.txt
+[0.876s] writing top-level names to ../../build/omni_drive/omni_drive.egg-info/top_level.txt
+[0.929s] reading manifest file '../../build/omni_drive/omni_drive.egg-info/SOURCES.txt'
+[0.930s] writing manifest file '../../build/omni_drive/omni_drive.egg-info/SOURCES.txt'
+[0.930s] running build
+[0.930s] running build_py
+[0.930s] copying omni_drive/joy_to_velocity.py -> /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive
+[0.931s] running install
+[0.937s] running install_lib
+[0.965s] copying /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build/lib/omni_drive/joy_to_velocity.py -> /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive
+[0.965s] byte-compiling /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive/joy_to_velocity.py to joy_to_velocity.cpython-312.pyc
+[0.966s] running install_data
+[0.967s] running install_egg_info
+[0.995s] removing '/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive-0.1.0-py3.12.egg-info' (and everything under it)
+[0.995s] Copying ../../build/omni_drive/omni_drive.egg-info to /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages/omni_drive-0.1.0-py3.12.egg-info
+[0.996s] running install_scripts
+[1.052s] Installing joy_to_velocity script to /home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/omni_drive
+[1.053s] writing list of installed files to '/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log'
+[1.076s] Invoked command in '/home/chinmay/smiley1/project/ros2_ws/src/omni_drive' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/chinmay/smiley1/project/ros2_ws/build/omni_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/robot_interfaces/lib/python3.12/site-packages:/home/chinmay/smiley1/project/ros2_ws/install/omni_drive/lib/python3.12/site-packages:/opt/ros/jazzy/opt/gz_sim_vendor/lib/python:/opt/ros/jazzy/opt/sdformat_vendor/lib/python:/opt/ros/jazzy/opt/gz_transport_vendor/lib/python:/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python:/opt/ros/jazzy/opt/gz_math_vendor/lib/python:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/omni_drive build --build-base /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/build install --record /home/chinmay/smiley1/project/ros2_ws/build/omni_drive/install.log --install-scripts $base/lib/omni_drive --single-version-externally-managed install_data
