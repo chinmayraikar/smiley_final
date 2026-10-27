@@ -1,7 +1,0 @@
-{
-  "package_name": "robot_interfaces",
-  "non_idl_tuples": [
-    "/home/chinmay/smiley1/project/ros2_ws/src/robot_interfaces:msg/BnoReading.msg",
-    "/home/chinmay/smiley1/project/ros2_ws/src/robot_interfaces:msg/Velocity.msg"
-  ]
-}
